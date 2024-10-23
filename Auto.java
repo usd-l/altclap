@@ -6,7 +6,8 @@
 import java.util.Scanner;
 
 public class Auto extends Vehiculo{
-    
+
+    //Clase hija de Vehiculo
     Scanner leer = new Scanner(System.in);
     
     private int numAsientos;// Número de asientos en el auto
