@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author criss
  */
 public class Motocicleta extends Vehiculo{
-    
+    //Clase hija de Vehiculo
     Scanner leer = new Scanner(System.in);
     
     private int cilindrada; //Cilindrada de la moto
