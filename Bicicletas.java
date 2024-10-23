@@ -8,6 +8,7 @@ import java.util.Scanner;
  * @author criss
  */
 public class Bicicletas extends Vehiculo{
+    //Clase hija de Vehiculo
     private String cipobici; // Tipo de bicicleta
     
     Scanner leer = new Scanner(System.in);
